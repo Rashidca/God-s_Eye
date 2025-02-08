@@ -1,0 +1,8 @@
+numpy
+opencv-python
+flask 
+torch 
+torchvision
+streamlit
+python-telegram-bot
+plotly
